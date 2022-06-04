@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("我的分支一");
         System.out.println("push ssh");
         System.out.println("push second ssh");
+        System.out.println("pull first ssh");
     }
 }
