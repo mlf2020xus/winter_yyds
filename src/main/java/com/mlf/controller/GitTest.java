@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("push ssh");
         System.out.println("push second ssh");
         System.out.println("pull first ssh");
+        System.out.println("这是我第二次fork别的项目，进行修改");
     }
 }
